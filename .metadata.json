@@ -6,5 +6,9 @@
   {
     "package": "giscoR",
     "oncran": true
+  },
+  {
+    "package": "hetu",
+    "oncran": true
   }
 ]

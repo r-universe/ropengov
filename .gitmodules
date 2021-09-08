@@ -13,3 +13,8 @@
 	url = https://github.com/rOpenGov/giscoR
 	shallow = true
 	registered = true
+[submodule "hetu"]
+	path = hetu
+	url = https://github.com/rOpenGov/hetu
+	shallow = true
+	registered = true
