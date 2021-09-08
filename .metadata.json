@@ -1,0 +1,10 @@
+[
+  {
+    "package": "eurostat",
+    "oncran": true
+  },
+  {
+    "package": "giscoR",
+    "oncran": true
+  }
+]

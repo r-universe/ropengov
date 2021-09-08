@@ -1,5 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ropengov/universe
 	shallow = true
 	branch = HEAD
+[submodule "eurostat"]
+	path = eurostat
+	url = https://github.com/rOpenGov/eurostat
+	shallow = true
+	registered = true
+[submodule "giscoR"]
+	path = giscoR
+	url = https://github.com/rOpenGov/giscoR
+	shallow = true
+	registered = true
