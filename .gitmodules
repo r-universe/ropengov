@@ -33,3 +33,13 @@
 	url = https://github.com/rOpenGov/iotables
 	shallow = true
 	registered = true
+[submodule "geofi"]
+	path = geofi
+	url = https://github.com/rOpenGov/geofi
+	shallow = true
+	registered = true
+[submodule "rqog"]
+	path = rqog
+	url = https://github.com/rOpenGov/rqog
+	shallow = true
+	registered = true

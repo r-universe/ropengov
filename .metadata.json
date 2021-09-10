@@ -22,5 +22,12 @@
   {
     "package": "iotables",
     "oncran": true
+  },
+  {
+    "package": "geofi",
+    "oncran": false
+  },
+  {
+    "package": "rqog"
   }
 ]
