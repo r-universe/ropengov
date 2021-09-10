@@ -4,11 +4,23 @@
     "oncran": true
   },
   {
+    "package": "regions",
+    "oncran": true
+  },
+  {
     "package": "giscoR",
     "oncran": true
   },
   {
     "package": "hetu",
+    "oncran": true
+  },
+  {
+    "package": "retroharmonize",
+    "oncran": true
+  },
+  {
+    "package": "iotables",
     "oncran": true
   }
 ]

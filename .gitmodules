@@ -8,6 +8,11 @@
 	url = https://github.com/rOpenGov/eurostat
 	shallow = true
 	registered = true
+[submodule "regions"]
+	path = regions
+	url = https://github.com/rOpenGov/regions
+	shallow = true
+	registered = true
 [submodule "giscoR"]
 	path = giscoR
 	url = https://github.com/rOpenGov/giscoR
@@ -16,5 +21,15 @@
 [submodule "hetu"]
 	path = hetu
 	url = https://github.com/rOpenGov/hetu
+	shallow = true
+	registered = true
+[submodule "retroharmonize"]
+	path = retroharmonize
+	url = https://github.com/rOpenGov/retroharmonize
+	shallow = true
+	registered = true
+[submodule "iotables"]
+	path = iotables
+	url = https://github.com/rOpenGov/iotables
 	shallow = true
 	registered = true
