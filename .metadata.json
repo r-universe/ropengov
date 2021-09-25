@@ -29,5 +29,8 @@
   },
   {
     "package": "rqog"
+  },
+  {
+    "package": "rogtemplate"
   }
 ]
