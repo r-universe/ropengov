@@ -43,11 +43,6 @@
 	url = https://github.com/rOpenGov/rqog
 	shallow = true
 	registered = true
-[submodule "rogtemplate"]
-	path = rogtemplate
-	url = https://github.com/rOpenGov/rogtemplate
-	shallow = true
-	registered = true
 [submodule "downlit"]
 	path = downlit
 	url = https://github.com/r-lib/downlit
