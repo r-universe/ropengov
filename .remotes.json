@@ -7,14 +7,8 @@
   },
   {
     "package": "pkgdown",
-    "url": "https://github.com/r-lib/pkgdown",
+    "url": "https://github.com/dieghernan/pkgdown",
     "via": ["rogtemplate"],
-    "from": "rogtemplate"
-  },
-  {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang",
-    "via": ["rogtemplate", "pkgdown"],
     "from": "rogtemplate"
   }
 ]
