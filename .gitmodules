@@ -48,6 +48,16 @@
 	url = https://github.com/rOpenGov/rogtemplate
 	shallow = true
 	registered = true
+[submodule "RPublica"]
+	path = RPublica
+	url = https://github.com/rOpenGov/RPublica
+	shallow = true
+	registered = true
+[submodule "ogdindiar"]
+	path = ogdindiar
+	url = https://github.com/rOpenGov/ogdindiar
+	shallow = true
+	registered = true
 [submodule "downlit"]
 	path = downlit
 	url = https://github.com/r-lib/downlit

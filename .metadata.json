@@ -32,5 +32,12 @@
   },
   {
     "package": "rogtemplate"
+  },
+  {
+    "package": "RPublica",
+    "oncran": true
+  },
+  {
+    "package": "ogdindiar"
   }
 ]
