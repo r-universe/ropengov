@@ -1,13 +1,7 @@
 [
   {
-    "package": "downlit",
-    "url": "https://github.com/r-lib/downlit",
-    "via": ["rogtemplate", "pkgdown"],
-    "from": "rogtemplate"
-  },
-  {
     "package": "pkgdown",
-    "url": "https://github.com/dieghernan/pkgdown",
+    "url": "https://github.com/r-lib/pkgdown",
     "via": ["rogtemplate"],
     "from": "rogtemplate"
   }

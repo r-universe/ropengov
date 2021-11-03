@@ -58,13 +58,8 @@
 	url = https://github.com/rOpenGov/ogdindiar
 	shallow = true
 	registered = true
-[submodule "downlit"]
-	path = downlit
-	url = https://github.com/r-lib/downlit
-	shallow = true
-	registered = false
 [submodule "pkgdown"]
 	path = pkgdown
-	url = https://github.com/dieghernan/pkgdown
+	url = https://github.com/r-lib/pkgdown
 	shallow = true
 	registered = false
