@@ -39,5 +39,9 @@
   },
   {
     "package": "ogdindiar"
+  },
+  {
+    "package": "sorvi",
+    "oncran": true
   }
 ]
