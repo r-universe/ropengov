@@ -1,8 +1,0 @@
-[
-  {
-    "package": "pkgdown",
-    "url": "https://github.com/r-lib/pkgdown",
-    "via": ["rogtemplate"],
-    "from": "rogtemplate"
-  }
-]
