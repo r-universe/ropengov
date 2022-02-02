@@ -63,3 +63,8 @@
 	url = https://github.com/rOpenGov/sorvi
 	shallow = true
 	registered = true
+[submodule "sotkanet"]
+	path = sotkanet
+	url = https://github.com/rOpenGov/sotkanet
+	shallow = true
+	registered = true

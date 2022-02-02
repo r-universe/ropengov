@@ -43,5 +43,9 @@
   {
     "package": "sorvi",
     "oncran": true
+  },
+  {
+    "package": "sotkanet",
+    "oncran": true
   }
 ]
