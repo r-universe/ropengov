@@ -47,5 +47,9 @@
   {
     "package": "sotkanet",
     "oncran": true
+  },
+  {
+    "package": "helsinki",
+    "oncran": true
   }
 ]

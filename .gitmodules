@@ -68,3 +68,8 @@
 	url = https://github.com/rOpenGov/sotkanet
 	shallow = true
 	registered = true
+[submodule "helsinki"]
+	path = helsinki
+	url = https://github.com/rOpenGov/helsinki
+	shallow = true
+	registered = true
