@@ -49,6 +49,9 @@
     "oncran": true
   },
   {
+    "package": "usdoj"
+  },
+  {
     "package": "helsinki",
     "oncran": true
   }
