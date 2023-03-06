@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ropengov/universe
+	url = https://github.com/ropengov/ropengov.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "eurostat"]
