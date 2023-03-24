@@ -73,6 +73,11 @@
 	url = https://github.com/rOpenGov/usdoj
 	shallow = true
 	registered = true
+[submodule "oldbailey"]
+	path = oldbailey
+	url = https://github.com/rOpenGov/oldbailey
+	shallow = true
+	registered = true
 [submodule "helsinki"]
 	path = helsinki
 	url = https://github.com/rOpenGov/helsinki
