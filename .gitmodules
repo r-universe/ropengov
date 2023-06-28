@@ -1,85 +1,52 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ropengov/ropengov.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "eurostat"]
 	path = eurostat
 	url = https://github.com/rOpenGov/eurostat
-	shallow = true
-	registered = true
 [submodule "regions"]
 	path = regions
 	url = https://github.com/rOpenGov/regions
-	shallow = true
-	registered = true
 [submodule "giscoR"]
 	path = giscoR
 	url = https://github.com/rOpenGov/giscoR
-	shallow = true
-	registered = true
 [submodule "hetu"]
 	path = hetu
 	url = https://github.com/rOpenGov/hetu
-	shallow = true
-	registered = true
 [submodule "retroharmonize"]
 	path = retroharmonize
 	url = https://github.com/rOpenGov/retroharmonize
-	shallow = true
-	registered = true
 [submodule "iotables"]
 	path = iotables
 	url = https://github.com/rOpenGov/iotables
-	shallow = true
-	registered = true
 [submodule "geofi"]
 	path = geofi
 	url = https://github.com/rOpenGov/geofi
-	shallow = true
-	registered = true
 [submodule "rqog"]
 	path = rqog
 	url = https://github.com/rOpenGov/rqog
-	shallow = true
-	registered = true
 [submodule "rogtemplate"]
 	path = rogtemplate
 	url = https://github.com/rOpenGov/rogtemplate
-	shallow = true
-	registered = true
 [submodule "RPublica"]
 	path = RPublica
 	url = https://github.com/rOpenGov/RPublica
-	shallow = true
-	registered = true
 [submodule "ogdindiar"]
 	path = ogdindiar
 	url = https://github.com/rOpenGov/ogdindiar
-	shallow = true
-	registered = true
 [submodule "sorvi"]
 	path = sorvi
 	url = https://github.com/rOpenGov/sorvi
-	shallow = true
-	registered = true
 [submodule "sotkanet"]
 	path = sotkanet
 	url = https://github.com/rOpenGov/sotkanet
-	shallow = true
-	registered = true
 [submodule "usdoj"]
 	path = usdoj
 	url = https://github.com/rOpenGov/usdoj
-	shallow = true
-	registered = true
 [submodule "oldbailey"]
 	path = oldbailey
 	url = https://github.com/rOpenGov/oldbailey
-	shallow = true
-	registered = true
 [submodule "helsinki"]
 	path = helsinki
 	url = https://github.com/rOpenGov/helsinki
-	shallow = true
-	registered = true
