@@ -2,39 +2,45 @@
 	path = .registry
 	url = https://github.com/ropengov/ropengov.r-universe.dev
 	branch = HEAD
-[submodule "eurostat"]
-	path = eurostat
-	url = https://github.com/rOpenGov/eurostat
-[submodule "regions"]
-	path = regions
-	url = https://github.com/rOpenGov/regions
-[submodule "giscoR"]
-	path = giscoR
-	url = https://github.com/rOpenGov/giscoR
-[submodule "hetu"]
-	path = hetu
-	url = https://github.com/rOpenGov/hetu
-[submodule "retroharmonize"]
-	path = retroharmonize
-	url = https://github.com/rOpenGov/retroharmonize
-[submodule "iotables"]
-	path = iotables
-	url = https://github.com/rOpenGov/iotables
-[submodule "geofi"]
-	path = geofi
-	url = https://github.com/rOpenGov/geofi
-[submodule "rqog"]
-	path = rqog
-	url = https://github.com/rOpenGov/rqog
-[submodule "rogtemplate"]
-	path = rogtemplate
-	url = https://github.com/rOpenGov/rogtemplate
 [submodule "RPublica"]
 	path = RPublica
 	url = https://github.com/rOpenGov/RPublica
+[submodule "eurostat"]
+	path = eurostat
+	url = https://github.com/rOpenGov/eurostat
+[submodule "geofi"]
+	path = geofi
+	url = https://github.com/rOpenGov/geofi
+[submodule "giscoR"]
+	path = giscoR
+	url = https://github.com/rOpenGov/giscoR
+[submodule "helsinki"]
+	path = helsinki
+	url = https://github.com/rOpenGov/helsinki
+[submodule "hetu"]
+	path = hetu
+	url = https://github.com/rOpenGov/hetu
+[submodule "iotables"]
+	path = iotables
+	url = https://github.com/rOpenGov/iotables
 [submodule "ogdindiar"]
 	path = ogdindiar
 	url = https://github.com/rOpenGov/ogdindiar
+[submodule "oldbailey"]
+	path = oldbailey
+	url = https://github.com/rOpenGov/oldbailey
+[submodule "regions"]
+	path = regions
+	url = https://github.com/rOpenGov/regions
+[submodule "retroharmonize"]
+	path = retroharmonize
+	url = https://github.com/rOpenGov/retroharmonize
+[submodule "rogtemplate"]
+	path = rogtemplate
+	url = https://github.com/rOpenGov/rogtemplate
+[submodule "rqog"]
+	path = rqog
+	url = https://github.com/rOpenGov/rqog
 [submodule "sorvi"]
 	path = sorvi
 	url = https://github.com/rOpenGov/sorvi
@@ -44,9 +50,3 @@
 [submodule "usdoj"]
 	path = usdoj
 	url = https://github.com/rOpenGov/usdoj
-[submodule "oldbailey"]
-	path = oldbailey
-	url = https://github.com/rOpenGov/oldbailey
-[submodule "helsinki"]
-	path = helsinki
-	url = https://github.com/rOpenGov/helsinki
