@@ -8,6 +8,9 @@
 [submodule "eurostat"]
 	path = eurostat
 	url = https://github.com/rOpenGov/eurostat
+[submodule "geodk"]
+	path = geodk
+	url = https://github.com/rOpenGov/geodk
 [submodule "geofi"]
 	path = geofi
 	url = https://github.com/rOpenGov/geofi
