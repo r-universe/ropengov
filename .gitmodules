@@ -5,6 +5,9 @@
 [submodule "RPublica"]
 	path = RPublica
 	url = https://github.com/rOpenGov/RPublica
+[submodule "dkstat"]
+	path = dkstat
+	url = https://github.com/rOpenGov/dkstat
 [submodule "eurostat"]
 	path = eurostat
 	url = https://github.com/rOpenGov/eurostat
