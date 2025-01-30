@@ -5,21 +5,33 @@
 [submodule "RPublica"]
 	path = RPublica
 	url = https://github.com/rOpenGov/RPublica
+[submodule "digitransit"]
+	path = digitransit
+	url = https://github.com/rOpenGov/digitransit
 [submodule "dkstat"]
 	path = dkstat
 	url = https://github.com/rOpenGov/dkstat
+[submodule "europarl"]
+	path = europarl
+	url = https://github.com/rOpenGov/europarl
 [submodule "eurostat"]
 	path = eurostat
 	url = https://github.com/rOpenGov/eurostat
-[submodule "geodk"]
-	path = geodk
-	url = https://github.com/rOpenGov/geodk
+[submodule "federalregister"]
+	path = federalregister
+	url = https://github.com/rOpenGov/federalregister
+[submodule "fmi2"]
+	path = fmi2
+	url = https://github.com/rOpenGov/fmi2
 [submodule "geofi"]
 	path = geofi
 	url = https://github.com/rOpenGov/geofi
 [submodule "giscoR"]
 	path = giscoR
 	url = https://github.com/rOpenGov/giscoR
+[submodule "hansard"]
+	path = hansard
+	url = https://github.com/rOpenGov/hansard
 [submodule "helsinki"]
 	path = helsinki
 	url = https://github.com/rOpenGov/helsinki
@@ -29,30 +41,57 @@
 [submodule "iotables"]
 	path = iotables
 	url = https://github.com/rOpenGov/iotables
+[submodule "kelaopendata"]
+	path = kelaopendata
+	url = https://github.com/rOpenGov/kelaopendata
+[submodule "mpg"]
+	path = mpg
+	url = https://github.com/rOpenGov/mpg
 [submodule "ogdindiar"]
 	path = ogdindiar
 	url = https://github.com/rOpenGov/ogdindiar
 [submodule "oldbailey"]
 	path = oldbailey
 	url = https://github.com/rOpenGov/oldbailey
+[submodule "openthl"]
+	path = openthl
+	url = https://github.com/rOpenGov/openthl
+[submodule "pollstR"]
+	path = pollstR
+	url = https://github.com/rOpenGov/pollstR
+[submodule "psData"]
+	path = psData
+	url = https://github.com/rOpenGov/psData
+[submodule "pxweb"]
+	path = pxweb
+	url = https://github.com/rOpenGov/pxweb
+[submodule "r311"]
+	path = r311
+	url = https://github.com/rOpenGov/r311
 [submodule "regions"]
 	path = regions
 	url = https://github.com/rOpenGov/regions
 [submodule "retroharmonize"]
 	path = retroharmonize
 	url = https://github.com/rOpenGov/retroharmonize
-[submodule "rogtemplate"]
-	path = rogtemplate
-	url = https://github.com/rOpenGov/rogtemplate
 [submodule "rqog"]
 	path = rqog
 	url = https://github.com/rOpenGov/rqog
-[submodule "sorvi"]
-	path = sorvi
-	url = https://github.com/rOpenGov/sorvi
+[submodule "rwfs"]
+	path = rwfs
+	url = https://github.com/rOpenGov/rwfs
 [submodule "sotkanet"]
 	path = sotkanet
 	url = https://github.com/rOpenGov/sotkanet
+[submodule "sweidnumbr"]
+	path = sweidnumbr
+	url = https://github.com/rOpenGov/sweidnumbr
+[submodule "usbroadband"]
+	path = usbroadband
+	url = https://github.com/rOpenGov/usbroadband
 [submodule "usdoj"]
 	path = usdoj
 	url = https://github.com/rOpenGov/usdoj
+[submodule "vipunen"]
+	path = vipunen
+	url = https://github.com/rOpenGov/vipunen
