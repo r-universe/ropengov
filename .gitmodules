@@ -20,9 +20,15 @@
 [submodule "federalregister"]
 	path = federalregister
 	url = https://github.com/rOpenGov/federalregister
+[submodule "finna"]
+	path = finna
+	url = https://github.com/rOpenGov/finna
 [submodule "fmi2"]
 	path = fmi2
 	url = https://github.com/rOpenGov/fmi2
+[submodule "geodk"]
+	path = geodk
+	url = https://github.com/rOpenGov/geodk
 [submodule "geofi"]
 	path = geofi
 	url = https://github.com/rOpenGov/geofi
@@ -74,12 +80,18 @@
 [submodule "retroharmonize"]
 	path = retroharmonize
 	url = https://github.com/rOpenGov/retroharmonize
+[submodule "rogtemplate"]
+	path = rogtemplate
+	url = https://github.com/rOpenGov/rogtemplate
 [submodule "rqog"]
 	path = rqog
 	url = https://github.com/rOpenGov/rqog
 [submodule "rwfs"]
 	path = rwfs
 	url = https://github.com/rOpenGov/rwfs
+[submodule "sorvi"]
+	path = sorvi
+	url = https://github.com/rOpenGov/sorvi
 [submodule "sotkanet"]
 	path = sotkanet
 	url = https://github.com/rOpenGov/sotkanet
