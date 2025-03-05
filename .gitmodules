@@ -22,7 +22,7 @@
 	url = https://github.com/rOpenGov/federalregister
 [submodule "finna"]
 	path = finna
-	url = https://github.com/rOpenGov/finna
+	url = https://github.com/fennicahub/finna
 [submodule "fmi2"]
 	path = fmi2
 	url = https://github.com/rOpenGov/fmi2
