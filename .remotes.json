@@ -1,5 +1,11 @@
 [
   {
+    "package": "dkstat",
+    "url": "https://github.com/rOpenGov/dkstat",
+    "via": ["geodk"],
+    "from": "geodk"
+  },
+  {
     "package": "geodk",
     "url": "https://github.com/rOpenGov/geodk",
     "via": ["dkstat"],
