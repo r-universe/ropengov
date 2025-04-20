@@ -53,6 +53,9 @@
 [submodule "mpg"]
 	path = mpg
 	url = https://github.com/rOpenGov/mpg
+[submodule "noaa"]
+	path = noaa
+	url = https://github.com/rOpenGov/noaa
 [submodule "ogdindiar"]
 	path = ogdindiar
 	url = https://github.com/rOpenGov/ogdindiar
