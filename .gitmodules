@@ -101,6 +101,9 @@
 [submodule "sweidnumbr"]
 	path = sweidnumbr
 	url = https://github.com/rOpenGov/sweidnumbr
+[submodule "uscongress"]
+	path = uscongress
+	url = https://github.com/rOpenGov/uscongress
 [submodule "usdoj"]
 	path = usdoj
 	url = https://github.com/rOpenGov/usdoj
