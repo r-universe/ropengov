@@ -5,6 +5,9 @@
 [submodule "RPublica"]
 	path = RPublica
 	url = https://github.com/rOpenGov/RPublica
+[submodule "californiaalw"]
+	path = californiaalw
+	url = https://github.com/asafichaki/californiaalw
 [submodule "digitransit"]
 	path = digitransit
 	url = https://github.com/rOpenGov/digitransit
